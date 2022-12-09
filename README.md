@@ -28,6 +28,6 @@
 
 &nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peixotons&show_icons=true&locale=en&layout=compact" alt="peixotons" /></p>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peixotons&show_icons=true&locale=en&layout=compact" alt="peixotons" /></span>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=peixotons&show_icons=true&locale=en&layout=compact" alt="peixotons" /></p>
+<span><img align="right" src="https://github-readme-stats.vercel.app/api?username=peixotons&show_icons=true&locale=en&layout=compact" alt="peixotons" /></span>
