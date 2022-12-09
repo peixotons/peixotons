@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peixotons&show_icons=true&locale=en&layout=compact" alt="peixotons" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=peixotons&show_icons=true&locale=en" alt="peixotons" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=peixotons&show_icons=true&locale=en&layout=compact" alt="peixotons" /></p>
