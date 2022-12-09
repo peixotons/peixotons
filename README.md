@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Peixoto</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peixotons&label=Profile%20views&color=0e75b6&style=flat" alt="peixotons" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Laravel, Vue, React**
 
-- 📫 How to reach me **bielpcosta@gmail**
+- 📫 How to reach me **bielpcosta@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
