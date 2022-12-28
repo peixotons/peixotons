@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [peixotoo.com](peixotoo.com)
+- 👨‍💻 All of my projects are available at [https://peixoto.netlify.app/](https://peixoto.netlify.app/)
 
 - 💬 Ask me about **Laravel, React**
 
