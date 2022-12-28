@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **SESAP**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [peixotoo.com](peixotoo.com)
 
-- 💬 Ask me about **Laravel, Vue, React**
+- 💬 Ask me about **Laravel, React**
 
 - 📫 How to reach me **bielpcosta@hotmail.com**
 
