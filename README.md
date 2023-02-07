@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peixotons&label=Profile%20views&color=0e75b6&style=flat" alt="peixotons" /> </p>
 
-- 🔭 I’m currently working on **SESAP**
+- 🔭 I’m currently working on **ZapISP**
 
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://peixoto.netlify.app/](https://peixoto.netlify.app/)
 
-- 💬 Ask me about **Laravel, React**
+- 💬 Ask me about **PHP,Laravel**
 
 - 📫 How to reach me **bielpcosta@hotmail.com**
 
