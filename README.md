@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **ZapISP**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java and PHP**
 
 - 👨‍💻 All of my projects are available at [https://peixoto.netlify.app/](https://peixoto.netlify.app/)
 
-- 💬 Ask me about **PHP,Laravel**
+- 💬 Ask me about **PHP, Laravel**
 
 - 📫 How to reach me **bielpcosta@hotmail.com**
 
