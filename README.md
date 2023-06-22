@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java and PHP**
 
-- 👨‍💻 All of my projects are available at [https://peixoto.netlify.app/](https://peixoto.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://peixotoo.com/](https://peixotoo.com/)
 
 - 💬 Ask me about **PHP, Laravel**
 
