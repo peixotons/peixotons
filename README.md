@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on **ZapISP**
 
-- 🌱 I’m currently learning **Java and PHP**
-
-- 👨‍💻 All of my projects are available at [https://peixotoo.com/](https://peixotoo.com/)
+- 🌱 I’m currently learning **PHP and NodeJS**
 
 - 💬 Ask me about **PHP, Laravel**
 
