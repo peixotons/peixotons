@@ -1,11 +1,10 @@
 <div align="center">
 
-[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+[![Hello World, I'm Gabriel!](assets/header.gif)](https://github.com/peixotons)
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Peixotons) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabrielpeixe/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bielpcostaaa@gmail.com?subject=Hello%20Peixotons,%20From%20Github)
 
 </div>
 
