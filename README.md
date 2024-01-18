@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Gabriel!](/header.gif)](https://github.com/peixotons)
+[![Hello World, I'm Gabriel!](assets/header.gif)](https://github.com/peixotons)
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Peixotons) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabrielpeixe/) &nbsp;
