@@ -9,7 +9,7 @@
 </div>
 
 - 🔭 I’m currently working at [Zapisp](https://www.linkedin.com/company/zapisp) a vertically growing startup.
-- 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).
+- 🌱 I’m passionate about [AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I run on the beach, do crossfit and sleep in the hammock!
 
