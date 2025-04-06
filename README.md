@@ -21,7 +21,7 @@
 
 ## 💻 My Tech Stack:
 
-[![PHP, Node.js, JavaScript, TypeScript, AWS, Solidity, Next.js,](https://skillicons.dev/icons?i=next,php,nodejs,js,ts,aws,solidity)](https://skillicons.dev)
+[![PHP, Node.js, JavaScript, TypeScript, AWS, NestJS, Python, Next.js,](https://skillicons.dev/icons?i=ne,php,nodejs,js,ts,aws,nest,python,next)](https://skillicons.dev)
 
 
 <!--- ## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
